@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/govindportfolio/static/css/main.31912493.css",
-    "main.js": "/govindportfolio/static/js/main.edeb54cf.js",
+    "main.css": "/govindportfolio/static/css/main.0068ae5b.css",
+    "main.js": "/govindportfolio/static/js/main.65de869a.js",
     "static/media/pic7.jpg": "/govindportfolio/static/media/pic7.5d6dce2b6eac579776db.jpg",
-    "static/media/pic6.jpg": "/govindportfolio/static/media/pic6.7d535815e88e29dd7060.jpg",
+    "static/media/fooddelivey.jpg": "/govindportfolio/static/media/fooddelivey.d2a42433fbdaa280c578.jpg",
+    "static/media/myportfolio.png": "/govindportfolio/static/media/myportfolio.c107bf1d55083bfab19c.png",
     "static/media/img1.jpg": "/govindportfolio/static/media/img1.1a17877b619431b994e5.jpg",
-    "static/media/img2.jpg": "/govindportfolio/static/media/img2.33435cc9fb277807d568.jpg",
     "static/media/pic1.jpg": "/govindportfolio/static/media/pic1.a78a7eb87ed4b73a6ea5.jpg",
+    "static/media/consulatation.jpg": "/govindportfolio/static/media/consulatation.a87e70ff528da407214d.jpg",
     "static/media/govind.jpg": "/govindportfolio/static/media/govind.09dcec04ea2237f64ad1.jpg",
     "index.html": "/govindportfolio/index.html",
-    "main.31912493.css.map": "/govindportfolio/static/css/main.31912493.css.map",
-    "main.edeb54cf.js.map": "/govindportfolio/static/js/main.edeb54cf.js.map"
+    "main.0068ae5b.css.map": "/govindportfolio/static/css/main.0068ae5b.css.map",
+    "main.65de869a.js.map": "/govindportfolio/static/js/main.65de869a.js.map"
   },
   "entrypoints": [
-    "static/css/main.31912493.css",
-    "static/js/main.edeb54cf.js"
+    "static/css/main.0068ae5b.css",
+    "static/js/main.65de869a.js"
   ]
 }
