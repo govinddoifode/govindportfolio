@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/govindportfolio/static/css/main.835a8124.css",
-    "main.js": "/govindportfolio/static/js/main.19c18731.js",
+    "main.js": "/govindportfolio/static/js/main.14e1aa99.js",
     "static/media/pic7.jpg": "/govindportfolio/static/media/pic7.5d6dce2b6eac579776db.jpg",
     "static/media/fooddelivey.jpg": "/govindportfolio/static/media/fooddelivey.d2a42433fbdaa280c578.jpg",
     "static/media/myportfolio.png": "/govindportfolio/static/media/myportfolio.c107bf1d55083bfab19c.png",
@@ -11,10 +11,10 @@
     "static/media/govind.jpg": "/govindportfolio/static/media/govind.09dcec04ea2237f64ad1.jpg",
     "index.html": "/govindportfolio/index.html",
     "main.835a8124.css.map": "/govindportfolio/static/css/main.835a8124.css.map",
-    "main.19c18731.js.map": "/govindportfolio/static/js/main.19c18731.js.map"
+    "main.14e1aa99.js.map": "/govindportfolio/static/js/main.14e1aa99.js.map"
   },
   "entrypoints": [
     "static/css/main.835a8124.css",
-    "static/js/main.19c18731.js"
+    "static/js/main.14e1aa99.js"
   ]
 }
